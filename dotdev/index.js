@@ -6,7 +6,7 @@ try {
 	// internal imports
 	const { getKeyValue } = require('./getKeyValue');
 	const { checkValidateInputOfVariable, isValueTypeNumber } = require('./validators');
-const { getPath } = require('./getPath')
+	const { getPath } = require('./getPath')
 
 	// find dev.env file dirname
 	const dotDevDirname = getPath(__dirname);
