@@ -31,15 +31,15 @@
 	console.log(dotdev.AUTHOR);
 ```
 * rule 1.3
-	* what type of name you have you can use it dotdev."variable name"
-	* if you have to write number on dev.env file you can do it
+	* what type of name you can have, or you can use in dotdev as "variable name"
+	* if you have writing number on dev.env file you can do it
 	* you can use it as a number
 
 ## step 2
 
 * rule 2.1
 * environment variables
-	* when you write your variable you must follow this rool
+	* when you write your variable you must follow this role
 	* this is the formats you must follow
 	
 ```
